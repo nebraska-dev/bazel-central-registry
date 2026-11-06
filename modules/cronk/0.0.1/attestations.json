@@ -1,0 +1,29 @@
+{
+    "mediaType": "application/vnd.build.bazel.registry.attestation+json;version=1.0.0",
+    "attestations": {
+        "EXIT_GATE_CHANGELOG": {
+            "url": "https://github.com/nebraska-dev/cronk-bcr/releases/download/v0.0.1/vsa-e4f4e22b33c71e639b953260d93ac0266f79ad45f1ac16fd638d61ea7dd8b90e",
+            "integrity": "sha256-bc5c2c2a2bfa773ae1a66e8cf32db25e45159ea91f904cd05e4c39b13a1647aa"
+        },
+        "MODULE.bazel": {
+            "url": "https://github.com/nebraska-dev/cronk-bcr/releases/download/v0.0.1/vsa-8235d26cf179036f696c7fde040e1a63053041382a4c27e3e2598f480a23b8bf",
+            "integrity": "sha256-b1da1b1e6e5141cff3f09c1d390d74479f8a1b88d2b6ddecda8e8e0cb0eb1a7b"
+        },
+        "cronk-0.0.1.tar.gz": {
+            "url": "https://github.com/nebraska-dev/cronk-bcr/releases/download/v0.0.1/vsa-ab7a5623cc33060d8563c6dd134feb4528927a59c0ae3dcc5756ec3fd0b1f6e1",
+            "integrity": "sha256-1a18eb608772a6ac7abd4ab6aedca67a9b274d8e314dabd98861c662b97869cf"
+        },
+        "metadata.json": {
+            "url": "https://github.com/nebraska-dev/cronk-bcr/releases/download/v0.0.1/vsa-3abb80580d20e611ec5c713a76fac5de78116cc42ef87e9ac7b50bb3a7a87f0f",
+            "integrity": "sha256-bd38c54084040931ee1067bf3ded744e882f36e42850931c570454bb1b86b2e0"
+        },
+        "presubmit.yaml": {
+            "url": "https://github.com/nebraska-dev/cronk-bcr/releases/download/v0.0.1/vsa-053f836db1583cc6c5df82ef60ccdfc20e30f9baba9d8f6fb1d212b0aabd82ad",
+            "integrity": "sha256-8eabda15915d7c03ff7020a100e092087ec27fb5fba433737c314780003ab2b8"
+        },
+        "sources.json": {
+            "url": "https://github.com/nebraska-dev/cronk-bcr/releases/download/v0.0.1/vsa-aa6a0ba255fd6421db3605e0368a5c0f688589c8a68eb2a90d46b9aa6aacbdd8",
+            "integrity": "sha256-8562e6a649fb356e7e607dc9f28b5f63b2b4cace79b9c4f42bc29c649287cfef"
+        }
+    }
+}
